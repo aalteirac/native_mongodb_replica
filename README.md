@@ -1,8 +1,9 @@
 ## Introduction
 
-Simple, basic test to run MongoDB + Mongo-Express in Snowflake Native App framework
+Test to run MongoDB replica set 3 nodes + Mongo-Express in Snowflake Native App framework
 
-ADDED: replica set 3 nodes
+In Snowflake SPCS and Docker in general, there're other ways to manage resilience for a service like MongoDB.
+However this test with replica is a good exercise to understand some SNowflake SPCS specificities like network abstraction and service state.
 
 --- NOT FOR PROD ---
 
