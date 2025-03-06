@@ -27,7 +27,7 @@ CREATE IMAGE REPOSITORY MONGO_REPO;
 
 
 
--- DOCKER STUFF
+-- DOCKER CONTAINER PUSH TO SNOWFLAKE REPO:
 
 -- docker pull --platform linux/amd64 mongodb/mongodb-community-server
 -- docker pull --platform linux/amd64 mongo-express

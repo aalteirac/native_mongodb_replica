@@ -6,7 +6,7 @@ ADDED: replica set 3 nodes
 
 --- NOT FOR PROD ---
 
-Run init on the target account, change the role name if needed
+Run the content of init.ql on the target account, change the role name if needed
 
 ## Demo
 [![Demo Video](https://img.youtube.com/vi/M08Af-9V27s/0.jpg)](https://www.youtube.com/watch?v=M08Af-9V27s)
